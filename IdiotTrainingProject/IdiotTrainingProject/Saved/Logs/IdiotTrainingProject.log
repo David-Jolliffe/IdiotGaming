@@ -1640,3 +1640,811 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.18-15.40.47:950][435]LogSlate: Window 'Revision Control Login' being destroyed
 [2025.05.18-15.40.53:885][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2025.05.18-15.41.58:782][124]LogDerivedDataCache: C:/Users/David/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.18-15.45.27:662][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 318.000854
+[2025.05.18-15.45.28:659][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-15.45.28:659][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 318.665039, Update Interval: 355.999023
+[2025.05.18-15.46.00:484][672]LogSlate: Window 'Revision Control Login' being destroyed
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:388][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:389][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:390][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:390][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:390][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:390][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:390][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:390][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:390][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:390][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:390][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:390][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:390][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:390][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:390][483]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-15.46.14:674][483]EditorErrors: Warning: No assets to check in!
+[2025.05.18-15.48.56:028][770]LogAutomationController: Ignoring very large delta of 3.75 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.18-15.49.30:310][124]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.05.18-15.49.30:324][124]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.05.18-15.49.57:738][182]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.05.18-15.50.00:527][197]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.05.18-15.51.28:173][845]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 678.509521
+[2025.05.18-15.51.28:318][851]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-15.51.28:318][851]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 678.631287, Update Interval: 339.918213
+[2025.05.18-15.52.17:509][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.05.18-15.52.17:520][581]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/AX/QD7MAQAIBJ16OYN5ZXXIUV_Auto1
+[2025.05.18-15.52.17:520][581]LogSavePackage: Moving '../../../../../../Users/David/Source/GitHub/IdiotGaming/IdiotTrainingProject/IdiotTrainingProject/Saved/QD7MAQAIBJ16OYN5ZXXIUV_Auto1F9DFCEF4403977E7F57A06B3052127BF.tmp' to '../../../../../../Users/David/Source/GitHub/IdiotGaming/IdiotTrainingProject/IdiotTrainingProject/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/AX/QD7MAQAIBJ16OYN5ZXXIUV_Auto1.uasset'
+[2025.05.18-15.52.17:522][581]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.037
+[2025.05.18-15.52.17:522][581]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: ================================================
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Total job queries 148, among them cache hits 4 (2.70%), DDC hits 138 (93.24%), Duplicates 2 (1.35%)
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Tracking 142 distinct input hashes that result in 133 distinct outputs (93.66%)
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: RAM used: 117.09 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.05 s
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Job execution time: average 2.19 s, max 2.52 s
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Job life time (pending + execution): average 2.23 s, max 2.55
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Shader code size: average 7.396 KiB, min 7.008 KiB, max 7.82 KiB
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.56 s
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Average processing rate: 1.56 jobs/sec
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Total thread time: 4.17 s
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Total thread preprocess time: 4.075 s
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Percentage time preprocessing: 97.72%
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Effective parallelization: 1.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 1.05 sec, max 1.05 sec, min 1.05 sec)
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.87 sec, max 0.87 sec, min 0.87 sec)
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.38% of total time (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2025.05.18-15.52.23:764][600]LogShaderCompilers: Display:                                                 FLumenCardPS - 25.25% of total time (compiled    1 times, average 1.05 sec, max 1.05 sec, min 1.05 sec)
+[2025.05.18-15.52.23:765][600]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.42% of total time (compiled    1 times, average 0.89 sec, max 0.89 sec, min 0.89 sec)
+[2025.05.18-15.52.23:765][600]LogShaderCompilers: Display:                                                 FLumenCardVS - 20.95% of total time (compiled    1 times, average 0.87 sec, max 0.87 sec, min 0.87 sec)
+[2025.05.18-15.52.23:765][600]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.05.18-15.52.23:765][600]LogShaderCompilers: Display: === Material stats ===
+[2025.05.18-15.52.23:765][600]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.18-15.52.23:765][600]LogShaderCompilers: Display: Materials Translated:    131
+[2025.05.18-15.52.23:765][600]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.05.18-15.52.23:765][600]LogShaderCompilers: Display: Material Translation Only: 0.08 s (61%)
+[2025.05.18-15.52.23:765][600]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (4%)
+[2025.05.18-15.52.23:765][600]LogShaderCompilers: Display: Material Cache Hits: 53 (40%)
+[2025.05.18-15.52.23:765][600]LogShaderCompilers: Display: ================================================
+[2025.05.18-15.57.13:849][470]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1024.185303
+[2025.05.18-15.57.14:849][473]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-15.57.14:849][473]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1024.852295, Update Interval: 342.099060
+[2025.05.18-16.03.10:240][539]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1380.575073
+[2025.05.18-16.03.11:242][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-16.03.11:242][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1381.242432, Update Interval: 315.309906
+[2025.05.18-16.08.43:638][539]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1713.971924
+[2025.05.18-16.08.44:640][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-16.08.44:640][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1714.639160, Update Interval: 359.880981
+[2025.05.18-16.15.17:721][721]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2108.053223
+[2025.05.18-16.15.18:722][724]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-16.15.18:722][724]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2108.720215, Update Interval: 302.239441
+[2025.05.18-16.21.07:453][770]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2457.783447
+[2025.05.18-16.21.08:453][773]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-16.21.08:453][773]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2458.449951, Update Interval: 306.747650
+[2025.05.18-16.26.51:524][802]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2801.854004
+[2025.05.18-16.26.52:524][805]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-16.26.52:524][805]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2802.520996, Update Interval: 305.557434
+[2025.05.18-16.32.48:251][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3158.582031
+[2025.05.18-16.32.49:253][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-16.32.49:253][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3159.248535, Update Interval: 359.981689
+[2025.05.18-16.39.26:319][ 66]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3556.653809
+[2025.05.18-16.39.27:321][ 70]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-16.39.27:321][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3557.320557, Update Interval: 303.625610
+[2025.05.18-16.41.58:783][524]LogDerivedDataCache: C:/Users/David/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.18-16.45.15:745][114]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3906.079346
+[2025.05.18-16.45.16:745][117]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-16.45.16:745][117]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3906.746094, Update Interval: 350.686981
+[2025.05.18-16.51.50:820][300]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4301.153320
+[2025.05.18-16.51.51:821][303]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-16.51.51:821][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4301.819824, Update Interval: 328.982819
+[2025.05.18-16.57.52:217][384]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4662.559570
+[2025.05.18-16.57.53:215][387]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-16.57.53:215][387]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4663.226074, Update Interval: 324.762115
+[2025.05.18-17.04.07:622][510]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5037.964355
+[2025.05.18-17.04.08:622][513]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-17.04.08:622][513]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5038.631836, Update Interval: 311.942505
+[2025.05.18-17.10.20:377][628]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5410.722656
+[2025.05.18-17.10.21:376][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-17.10.21:376][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5411.388672, Update Interval: 350.212708
+[2025.05.18-17.17.01:117][830]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5811.466309
+[2025.05.18-17.17.02:115][832]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-17.17.02:115][832]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5812.132812, Update Interval: 341.478333
+[2025.05.18-17.23.36:530][ 15]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6206.871094
+[2025.05.18-17.23.37:531][ 19]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-17.23.37:531][ 19]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6207.537598, Update Interval: 300.214233
+[2025.05.18-17.29.32:596][ 83]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6562.938965
+[2025.05.18-17.29.33:597][ 87]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-17.29.33:597][ 87]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6563.607422, Update Interval: 347.802979
+[2025.05.18-17.35.56:330][235]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6946.670410
+[2025.05.18-17.35.57:330][238]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-17.35.57:330][238]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6947.337402, Update Interval: 311.297943
+[2025.05.18-17.38.45:021][741]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 3e3...37f
+[2025.05.18-17.38.45:021][741]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.77 RefreshExpires: 1.554e+07
+[2025.05.18-17.38.46:022][744]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 3e3...37f Access[Expires: 2025.05.18-19.38.47 Remaining: 7200.75] Refresh[Expires: 2025-11-14T14:47:22.189Z Remaining: 15541715.19] State: Valid
+[2025.05.18-17.41.57:394][318]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7307.738281
+[2025.05.18-17.41.58:394][321]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-17.41.58:394][321]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7308.405273, Update Interval: 316.362793
+[2025.05.18-17.41.58:783][322]LogDerivedDataCache: C:/Users/David/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.18-17.48.05:124][421]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7675.475098
+[2025.05.18-17.48.06:125][424]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-17.48.06:125][424]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7676.142090, Update Interval: 334.835052
+[2025.05.18-17.54.14:207][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8044.554688
+[2025.05.18-17.54.15:207][531]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-17.54.15:207][531]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8045.221191, Update Interval: 323.894165
+[2025.05.18-18.00.24:272][638]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8414.610352
+[2025.05.18-18.00.25:272][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-18.00.25:272][641]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8415.277344, Update Interval: 304.343384
+[2025.05.18-18.06.29:341][732]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8779.677734
+[2025.05.18-18.06.30:342][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-18.06.30:342][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8780.344727, Update Interval: 301.635193
+[2025.05.18-18.12.20:414][786]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9130.739258
+[2025.05.18-18.12.21:414][789]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-18.12.21:414][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9131.406250, Update Interval: 303.907593
+[2025.05.18-18.18.24:814][878]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9495.119141
+[2025.05.18-18.18.25:813][881]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-18.18.25:814][881]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9495.787109, Update Interval: 331.064789
+[2025.05.18-18.24.51:550][ 38]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9881.836914
+[2025.05.18-18.24.52:550][ 41]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-18.24.52:550][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9882.504883, Update Interval: 336.841949
+[2025.05.18-18.26.48:703][545]LogSlate: Took 0.010804 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.18-18.27.00:521][143]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.05.18-18.27.05:863][351]LogStreaming: Display: FlushAsyncLoading(389): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.18-18.27.06:198][351]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2025.05.18-18.27.06:371][351]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.05.18-18.27.06:371][351]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.05.18-18.27.06:373][351]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkeletalMeshActor_0
+[2025.05.18-18.27.06:395][351]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkeletalMeshActor_0
+[2025.05.18-18.27.06:637][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.05.18-18.27.06:640][356]LogEditorActor: Deleted 0 Actors (0.036 secs)
+[2025.05.18-18.27.06:653][356]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.05.18-18.27.06:653][356]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.05.18-18.27.06:662][356]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkeletalMeshActor_UAID_10C37B9C9E1A806902_1992857903
+[2025.05.18-18.27.06:673][356]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkeletalMeshActor_UAID_10C37B9C9E1A806902_1992857903
+[2025.05.18-18.27.06:892][357]LogPSOHitching: Encountered 50 PSO creation hitches so far (40 graphics, 10 compute). 0 of them were precached.
+[2025.05.18-18.27.34:083][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.05.18-18.27.34:090][676]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/DS/FFERK79K9RSOTOEX178Y0Z_Auto2
+[2025.05.18-18.27.34:090][676]LogSavePackage: Moving '../../../../../../Users/David/Source/GitHub/IdiotGaming/IdiotTrainingProject/IdiotTrainingProject/Saved/FFERK79K9RSOTOEX178Y0Z_Auto2DFA341AD4C634A7D4B21C6B7CA960459.tmp' to '../../../../../../Users/David/Source/GitHub/IdiotGaming/IdiotTrainingProject/IdiotTrainingProject/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/DS/FFERK79K9RSOTOEX178Y0Z_Auto2.uasset'
+[2025.05.18-18.27.34:092][676]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.033
+[2025.05.18-18.27.34:092][676]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2025.05.18-18.28.25:536][344]LogShaderCompilers: Display: ================================================
+[2025.05.18-18.28.25:536][344]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.18-18.28.25:536][344]LogShaderCompilers: Display: Total job queries 158, among them cache hits 4 (2.53%), DDC hits 138 (87.34%), Duplicates 2 (1.27%)
+[2025.05.18-18.28.25:536][344]LogShaderCompilers: Display: Tracking 152 distinct input hashes that result in 140 distinct outputs (92.11%)
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: RAM used: 119.82 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Shaders Compiled: 14
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100%)
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Average time worker was idle: 4187.18 s
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Time job spent in pending queue: average 1.60 s, longest 4.76 s
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Job execution time: average 2.63 s, max 4.74 s
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Job life time (pending + execution): average 4.23 s, max 6.29
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Shader code size: average 7.773 KiB, min 5.012 KiB, max 12.055 KiB
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.91 s
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Average processing rate: 1.57 jobs/sec
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Total thread time: 18.342 s
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Total thread preprocess time: 4.434 s
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Percentage time preprocessing: 24.17%
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Effective parallelization: 2.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 1.84 sec, max 2.13 sec, min 1.35 sec)
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 1.26 sec, max 1.45 sec, min 0.89 sec)
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 1.04 sec, max 1.41 sec, min 0.84 sec)
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 0.94 sec, max 1.05 sec, min 0.84 sec)
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    2 times, average 0.86 sec, max 0.92 sec, min 0.80 sec)
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.05% of total time (compiled    3 times, average 1.84 sec, max 2.13 sec, min 1.35 sec)
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.60% of total time (compiled    3 times, average 1.26 sec, max 1.45 sec, min 0.89 sec)
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.05% of total time (compiled    3 times, average 1.04 sec, max 1.41 sec, min 0.84 sec)
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.45% of total time (compiled    3 times, average 0.94 sec, max 1.05 sec, min 0.84 sec)
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display:                                                FAnisotropyPS - 9.38% of total time (compiled    2 times, average 0.86 sec, max 0.92 sec, min 0.80 sec)
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: === Material stats ===
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Materials Translated:    131
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Material Translation Only: 0.08 s (61%)
+[2025.05.18-18.28.25:537][344]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (4%)
+[2025.05.18-18.28.25:538][344]LogShaderCompilers: Display: Material Cache Hits: 53 (40%)
+[2025.05.18-18.28.25:538][344]LogShaderCompilers: Display: ================================================
+[2025.05.18-18.31.07:794][902]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10258.113281
+[2025.05.18-18.31.07:925][909]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-18.31.07:925][909]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10258.225586, Update Interval: 351.814941
+[2025.05.18-18.36.06:199][978]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.05.18-18.37.43:102][732]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10653.497070
+[2025.05.18-18.37.43:219][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-18.37.43:219][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10653.594727, Update Interval: 308.245483
+[2025.05.18-18.41.58:784][ 79]LogDerivedDataCache: C:/Users/David/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.18-18.43.34:205][221]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11004.684570
+[2025.05.18-18.43.34:316][227]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-18.43.34:316][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11004.776367, Update Interval: 305.579407
+[2025.05.18-18.44.26:821][ 17]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.18-18.44.26:835][ 17]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.18-18.44.26:835][ 17]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.05.18-18.44.26:844][ 17]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 8.976 ms
+[2025.05.18-18.44.26:852][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.18-18.44.26:859][ 17]LogPlayLevel: Display: Creating online subsystem for client :Context_5
+[2025.05.18-18.44.26:863][ 17]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.05.18-18.44.26:909][ 18]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.18-18.44.26:930][ 18]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021145s)
+[2025.05.18-18.44.26:930][ 18]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.021337s)
+[2025.05.18-18.44.26:958][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.05.18-18.44.26:966][ 18]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2025.05.18-18.44.26:970][ 18]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.18-18.44.26:971][ 18]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.18-18.44.26:971][ 18]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.18-18.44.26:971][ 18]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.18-18.44.26:974][ 18]LogWorldPartition: Display: WorldPartition initialize took 3.604 ms (total: 78.093 ms)
+[2025.05.18-18.44.26:974][ 18]LogPlayLevel: PIE: World Init took: (0.007768s)
+[2025.05.18-18.44.26:976][ 18]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.05.18-18.44.26:976][ 18]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.18-18.44.26:976][ 18]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.18-18.44.26:976][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.18-18.44.26:976][ 18]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.18-18.44.26:976][ 18]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.18-18.44.26:976][ 18]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.18-18.44.26:976][ 18]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.18-18.44.26:976][ 18]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.18-18.44.26:976][ 18]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.18-18.44.26:976][ 18]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.18-18.44.26:976][ 18]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.18-18.44.26:980][ 18]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.18-18.44.27:025][ 18]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- G533 Gaming Headset)
+[2025.05.18-18.44.27:026][ 18]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.18-18.44.27:026][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.18-18.44.27:026][ 18]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.18-18.44.27:029][ 18]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.05.18-18.44.27:029][ 18]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.05.18-18.44.27:032][ 18]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.05.18-18.44.27:032][ 18]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.05.18-18.44.27:032][ 18]LogInit: FAudioDevice initialized with ID 2.
+[2025.05.18-18.44.27:032][ 18]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownMap'.
+[2025.05.18-18.44.27:032][ 18]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.18-18.44.27:044][ 18]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.18-18.44.27:054][ 18]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.05.18-13.44.27
+[2025.05.18-18.44.27:055][ 18]LogWorld: Bringing up level for play took: 0.009185
+[2025.05.18-18.44.27:105][ 18]PIE: Server logged in
+[2025.05.18-18.44.27:107][ 18]PIE: Play in editor total start time 0.273 seconds.
+[2025.05.18-18.46.25:607][695]LogShaderCompilers: Display: ================================================
+[2025.05.18-18.46.25:607][695]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.18-18.46.25:607][695]LogShaderCompilers: Display: Total job queries 163, among them cache hits 4 (2.45%), DDC hits 138 (84.66%), Duplicates 2 (1.23%)
+[2025.05.18-18.46.25:607][695]LogShaderCompilers: Display: Tracking 157 distinct input hashes that result in 145 distinct outputs (92.36%)
+[2025.05.18-18.46.25:607][695]LogShaderCompilers: Display: RAM used: 121.74 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.05.18-18.46.25:607][695]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.18-18.46.25:607][695]LogShaderCompilers: Display: Shaders Compiled: 19
+[2025.05.18-18.46.25:607][695]LogShaderCompilers: Display: Jobs assigned 19, completed 19 (100%)
+[2025.05.18-18.46.25:607][695]LogShaderCompilers: Display: Average time worker was idle: 3066.33 s
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Time job spent in pending queue: average 1.20 s, longest 4.76 s
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Job execution time: average 2.80 s, max 4.74 s
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Job life time (pending + execution): average 3.99 s, max 6.29
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Shader code size: average 7.772 KiB, min 4.23 KiB, max 12.055 KiB
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.85 s
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Jobs were issued in 19 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Average processing rate: 1.48 jobs/sec
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Total thread time: 25.546 s
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Total thread preprocess time: 4.627 s
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Percentage time preprocessing: 18.11%
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Effective parallelization: 1.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.78 sec, max 2.13 sec, min 1.35 sec)
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 1.29 sec, max 1.29 sec, min 1.29 sec)
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 1.23 sec, max 1.45 sec, min 0.89 sec)
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 1.12 sec, max 1.12 sec, min 1.12 sec)
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.92% of total time (compiled    4 times, average 1.78 sec, max 2.13 sec, min 1.35 sec)
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.18% of total time (compiled    4 times, average 1.23 sec, max 1.45 sec, min 0.89 sec)
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.24% of total time (compiled    3 times, average 1.04 sec, max 1.41 sec, min 0.84 sec)
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display:                                                 FLumenCardPS - 11.09% of total time (compiled    3 times, average 0.94 sec, max 1.05 sec, min 0.84 sec)
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display:                                                FAnisotropyPS - 6.73% of total time (compiled    2 times, average 0.86 sec, max 0.92 sec, min 0.80 sec)
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: === Material stats ===
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Materials Translated:    131
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Material Translation Only: 0.08 s (61%)
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (4%)
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: Material Cache Hits: 53 (40%)
+[2025.05.18-18.46.25:608][695]LogShaderCompilers: Display: ================================================
+[2025.05.18-18.48.25:462][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.18-18.48.25:462][955]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.18-18.48.25:463][955]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-18.48.25:464][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-18.48.25:464][955]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2025.05.18-18.48.25:472][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.18-18.48.25:477][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-18.48.25:505][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.18-18.48.25:505][955]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.05.18-18.48.25:505][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.18-18.48.25:513][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.05.18-18.48.25:527][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.05.18-18.48.25:701][956]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.05.18-18.49.33:334][438]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11363.810547
+[2025.05.18-18.49.33:469][444]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-18.49.33:469][444]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11363.922852, Update Interval: 345.730164
+[2025.05.18-18.51.51:158][649]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.18-18.51.51:158][649]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.05.18-18.51.51:163][649]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 5.446 ms (total: 14.422 ms)
+[2025.05.18-18.51.51:163][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.18-18.51.51:163][649]LogPlayLevel: Display: Creating online subsystem for client :Context_6
+[2025.05.18-18.51.51:168][649]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.05.18-18.51.51:241][650]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.18-18.51.51:249][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007652s)
+[2025.05.18-18.51.51:249][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.007757s)
+[2025.05.18-18.51.51:282][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.05.18-18.51.51:288][650]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2025.05.18-18.51.51:293][650]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.18-18.51.51:293][650]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.18-18.51.51:293][650]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.18-18.51.51:293][650]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.18-18.51.51:298][650]LogWorldPartition: Display: WorldPartition initialize took 5.548 ms (total: 83.641 ms)
+[2025.05.18-18.51.51:298][650]LogPlayLevel: PIE: World Init took: (0.010255s)
+[2025.05.18-18.51.51:301][650]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.05.18-18.51.51:301][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.18-18.51.51:301][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.18-18.51.51:301][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.18-18.51.51:301][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.18-18.51.51:301][650]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.18-18.51.51:302][650]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.18-18.51.51:302][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.18-18.51.51:302][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.18-18.51.51:302][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.18-18.51.51:302][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.18-18.51.51:302][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.18-18.51.51:306][650]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.18-18.51.51:378][650]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- G533 Gaming Headset)
+[2025.05.18-18.51.51:379][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.18-18.51.51:379][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.18-18.51.51:379][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.18-18.51.51:382][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.05.18-18.51.51:382][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.05.18-18.51.51:386][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.05.18-18.51.51:386][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.05.18-18.51.51:386][650]LogInit: FAudioDevice initialized with ID 3.
+[2025.05.18-18.51.51:386][650]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownMap'.
+[2025.05.18-18.51.51:386][650]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.18-18.51.51:391][650]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.18-18.51.51:400][650]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.05.18-13.51.51
+[2025.05.18-18.51.51:400][650]LogWorld: Bringing up level for play took: 0.008271
+[2025.05.18-18.51.51:412][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1199.516 Y=1281.761 Z=749.694] for [BP_TopDownCharacter_C]
+[2025.05.18-18.51.51:413][650]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_TopDownCharacter_C at Rotation: Pitch 0.000000 Yaw 4.800000 Roll 0.000000
+Translation: 1199.516043 1281.760866 749.693836
+Scale3D: 1.000000 1.000000 1.000000
+
+[2025.05.18-18.51.51:418][650]PIE: Server logged in
+[2025.05.18-18.51.51:424][650]PIE: Play in editor total start time 0.266 seconds.
+[2025.05.18-18.51.58:216][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.18-18.51.58:216][764]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.18-18.51.58:216][764]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-18.51.58:217][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-18.51.58:217][764]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2025.05.18-18.51.58:225][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.18-18.51.58:230][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-18.51.58:254][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.18-18.51.58:254][764]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.18-18.51.58:254][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.18-18.51.58:258][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.18-18.51.58:268][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.05.18-18.51.58:397][765]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.05.18-18.52.01:898][795]Cmd: SELECT NONE
+[2025.05.18-18.52.02:605][815]Cmd: SELECT NONE
+[2025.05.18-18.52.03:070][833]Cmd: SELECT NONE
+[2025.05.18-18.52.03:262][842]Cmd: SELECT NONE
+[2025.05.18-18.52.25:617][824]LogShaderCompilers: Display: ================================================
+[2025.05.18-18.52.25:617][824]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.18-18.52.25:617][824]LogShaderCompilers: Display: Total job queries 170, among them cache hits 5 (2.94%), DDC hits 138 (81.18%), Duplicates 2 (1.18%)
+[2025.05.18-18.52.25:617][824]LogShaderCompilers: Display: Tracking 163 distinct input hashes that result in 150 distinct outputs (92.02%)
+[2025.05.18-18.52.25:617][824]LogShaderCompilers: Display: RAM used: 123.31 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.05.18-18.52.25:617][824]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.18-18.52.25:617][824]LogShaderCompilers: Display: Shaders Compiled: 25
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Jobs assigned 25, completed 25 (100%)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Average time worker was idle: 2220.78 s
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Time job spent in pending queue: average 1.02 s, longest 4.76 s
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Job execution time: average 2.68 s, max 4.74 s
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Job life time (pending + execution): average 3.70 s, max 6.29
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Shader code size: average 7.439 KiB, min 2.785 KiB, max 12.055 KiB
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.19 s
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Jobs were issued in 25 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Average processing rate: 1.54 jobs/sec
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Total thread time: 33.519 s
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Total thread preprocess time: 4.915 s
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Percentage time preprocessing: 14.66%
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Effective parallelization: 2.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 1.77 sec, max 2.13 sec, min 1.35 sec)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 1.33 sec, max 1.37 sec, min 1.29 sec)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 1.15 sec, max 1.45 sec, min 0.83 sec)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 1.13 sec, max 1.14 sec, min 1.12 sec)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.59% of total time (compiled    6 times, average 1.77 sec, max 2.13 sec, min 1.35 sec)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.60% of total time (compiled    6 times, average 1.15 sec, max 1.45 sec, min 0.83 sec)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.33% of total time (compiled    3 times, average 1.04 sec, max 1.41 sec, min 0.84 sec)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.46% of total time (compiled    3 times, average 0.94 sec, max 1.05 sec, min 0.84 sec)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display:                                                  FHitProxyPS - 7.94% of total time (compiled    2 times, average 1.33 sec, max 1.37 sec, min 1.29 sec)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: === Material stats ===
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Materials Translated:    131
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Material Translation Only: 0.08 s (61%)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (4%)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: Material Cache Hits: 53 (40%)
+[2025.05.18-18.52.25:618][824]LogShaderCompilers: Display: ================================================
+[2025.05.18-18.52.29:333][ 61]Cmd: DELETE
+[2025.05.18-18.52.29:333][ 61]Cmd: ACTOR DELETE
+[2025.05.18-18.52.29:348][ 61]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.05.18-18.52.29:382][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.18-18.52.29:386][ 61]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2025.05.18-18.52.41:425][528]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.05.18-18.52.41:425][528]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.05.18-18.52.41:426][528]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkeletalMeshActor_1
+[2025.05.18-18.52.41:434][528]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkeletalMeshActor_1
+[2025.05.18-18.52.44:030][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.05.18-18.52.44:033][691]LogEditorActor: Deleted 0 Actors (0.051 secs)
+[2025.05.18-18.52.44:045][691]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.05.18-18.52.44:045][691]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2025.05.18-18.52.44:050][691]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkeletalMeshActor_UAID_10C37B9C9E1A826902_1382765256
+[2025.05.18-18.52.44:058][691]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkeletalMeshActor_UAID_10C37B9C9E1A826902_1382765256
+[2025.05.18-18.53.18:008][601]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.05.18-18.53.18:008][601]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2025.05.18-18.53.18:021][601]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.PlayerStart_UAID_10C37B9C9E1A826902_1416728257
+[2025.05.18-18.53.18:022][601]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.18-18.53.18:023][601]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.PlayerStart_UAID_10C37B9C9E1A826902_1416728257
+[2025.05.18-18.53.18:025][601]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.05.18-18.53.22:103][739]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.18-18.53.22:112][739]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.18-18.53.22:113][739]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2025.05.18-18.53.22:117][739]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 4.170 ms (total: 18.593 ms)
+[2025.05.18-18.53.22:117][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.18-18.53.22:117][739]LogPlayLevel: Display: Creating online subsystem for client :Context_7
+[2025.05.18-18.53.22:122][739]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.05.18-18.53.22:159][740]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.18-18.53.22:168][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008328s)
+[2025.05.18-18.53.22:168][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.008394s)
+[2025.05.18-18.53.22:198][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.18-18.53.22:202][740]LogChaosDD: Creating Chaos Debug Draw Scene for world TopDownMap
+[2025.05.18-18.53.22:205][740]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.18-18.53.22:205][740]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.18-18.53.22:205][740]LogWorldPartition: UWorldPartition::Initialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.18-18.53.22:205][740]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.18-18.53.22:207][740]LogWorldPartition: Display: WorldPartition initialize took 2.796 ms (total: 86.438 ms)
+[2025.05.18-18.53.22:207][740]LogPlayLevel: PIE: World Init took: (0.005431s)
+[2025.05.18-18.53.22:209][740]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.05.18-18.53.22:209][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.18-18.53.22:209][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.18-18.53.22:209][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.18-18.53.22:209][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.18-18.53.22:209][740]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.18-18.53.22:209][740]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.18-18.53.22:209][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.18-18.53.22:209][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.18-18.53.22:209][740]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.18-18.53.22:209][740]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.18-18.53.22:209][740]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.18-18.53.22:213][740]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.18-18.53.22:253][740]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- G533 Gaming Headset)
+[2025.05.18-18.53.22:254][740]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.18-18.53.22:254][740]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.18-18.53.22:254][740]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.18-18.53.22:256][740]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.05.18-18.53.22:256][740]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.05.18-18.53.22:259][740]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.05.18-18.53.22:259][740]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.05.18-18.53.22:259][740]LogInit: FAudioDevice initialized with ID 4.
+[2025.05.18-18.53.22:259][740]LogAudio: Display: Audio Device (ID: 4) registered with world 'TopDownMap'.
+[2025.05.18-18.53.22:259][740]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.18-18.53.22:277][740]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.05.18-18.53.22:285][740]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.05.18-13.53.22
+[2025.05.18-18.53.22:285][740]LogWorld: Bringing up level for play took: 0.007722
+[2025.05.18-18.53.22:294][740]PIE: Server logged in
+[2025.05.18-18.53.22:296][740]PIE: Play in editor total start time 0.183 seconds.
+[2025.05.18-18.56.11:106][329]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11761.216797
+[2025.05.18-18.56.11:239][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-18.56.11:240][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11761.330078, Update Interval: 331.196625
+[2025.05.18-18.58.18:386][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.18-18.58.18:386][985]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.05.18-18.58.18:386][985]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-18.58.18:387][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-18.58.18:387][985]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap
+[2025.05.18-18.58.18:392][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.18-18.58.18:397][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-18.58.18:424][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.18-18.58.18:424][985]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.18-18.58.18:424][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.18-18.58.18:428][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.18-18.58.18:441][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.05.18-18.58.18:944][986]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.05.18-18.58.20:967][986]LogAutomationController: Ignoring very large delta of 2.08 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.18-18.58.30:893][574]Cmd: DELETE
+[2025.05.18-18.58.30:893][574]Cmd: ACTOR DELETE
+[2025.05.18-18.58.30:896][574]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2025.05.18-18.58.30:924][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.18-18.58.30:926][574]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.05.18-18.58.57:563][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.05.18-18.58.57:573][835]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/O2/L00SP2MQPLAL3J4IHGPD89_Auto3
+[2025.05.18-18.58.57:573][835]LogSavePackage: Moving '../../../../../../Users/David/Source/GitHub/IdiotGaming/IdiotTrainingProject/IdiotTrainingProject/Saved/L00SP2MQPLAL3J4IHGPD89_Auto3ADE77F3B42C1DB2B02F8E5A3610846E5.tmp' to '../../../../../../Users/David/Source/GitHub/IdiotGaming/IdiotTrainingProject/IdiotTrainingProject/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/O2/L00SP2MQPLAL3J4IHGPD89_Auto3.uasset'
+[2025.05.18-18.58.57:575][835]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.033
+[2025.05.18-18.58.57:576][835]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2025.05.18-19.02.30:824][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12140.895508
+[2025.05.18-19.02.30:940][618]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-19.02.30:940][618]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12140.993164, Update Interval: 352.063965
+[2025.05.18-19.09.01:257][569]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12531.405273
+[2025.05.18-19.09.01:373][575]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-19.09.01:374][575]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12531.502930, Update Interval: 335.027313
+[2025.05.18-19.15.10:913][481]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12901.217773
+[2025.05.18-19.15.11:010][486]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-19.15.11:011][486]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12901.294922, Update Interval: 300.421143
+[2025.05.18-19.20.57:969][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13248.407227
+[2025.05.18-19.20.58:088][242]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-19.20.58:088][242]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13248.505859, Update Interval: 330.282898
+[2025.05.18-19.27.15:749][566]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13626.268555
+[2025.05.18-19.27.15:867][572]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-19.27.15:868][572]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13626.364258, Update Interval: 305.357819
+[2025.05.18-19.33.19:411][170]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13990.027344
+[2025.05.18-19.33.19:531][176]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-19.33.19:531][176]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13990.126953, Update Interval: 329.546814
+[2025.05.18-19.37.05:688][742]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 3e3...37f
+[2025.05.18-19.37.05:688][742]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.98 RefreshExpires: 1.553e+07
+[2025.05.18-19.37.05:846][750]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 3e3...37f Access[Expires: 2025.05.18-21.37.08 Remaining: 7200.28] Refresh[Expires: 2025-11-14T14:47:22.189Z Remaining: 15534614.19] State: Valid
+[2025.05.18-19.39.34:175][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14364.851562
+[2025.05.18-19.39.34:312][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-19.39.34:312][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14364.968750, Update Interval: 333.588074
+[2025.05.18-19.41.58:785][862]LogDerivedDataCache: C:/Users/David/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.18-19.45.41:403][357]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14732.129883
+[2025.05.18-19.45.41:517][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-19.45.41:517][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14732.225586, Update Interval: 307.729126
+[2025.05.18-19.51.25:568][135]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15076.278320
+[2025.05.18-19.51.25:665][140]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-19.51.25:665][140]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15076.356445, Update Interval: 335.666382
+[2025.05.18-19.57.56:448][325]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15467.267578
+[2025.05.18-19.57.56:565][330]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-19.57.56:565][330]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15467.365234, Update Interval: 326.018250
+[2025.05.18-20.04.03:243][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15834.123047
+[2025.05.18-20.04.03:357][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-20.04.03:357][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15834.218750, Update Interval: 347.048553
+[2025.05.18-20.10.27:763][136]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16218.691406
+[2025.05.18-20.10.27:900][143]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-20.10.27:900][143]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16218.807617, Update Interval: 343.770874
+[2025.05.18-20.16.54:294][103]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16606.941406
+[2025.05.18-20.16.54:409][109]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-20.16.54:409][109]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16607.037109, Update Interval: 352.558350
+[2025.05.18-20.23.38:209][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17014.201172
+[2025.05.18-20.23.38:324][965]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-20.23.38:325][965]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17014.298828, Update Interval: 336.710114
+[2025.05.18-20.29.48:110][ 62]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17387.142578
+[2025.05.18-20.29.48:225][ 67]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-20.29.48:225][ 67]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17387.240234, Update Interval: 304.608917
+[2025.05.18-20.35.49:316][727]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17751.287109
+[2025.05.18-20.35.49:413][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-20.35.49:413][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17751.365234, Update Interval: 334.827728
+[2025.05.18-20.41.58:785][815]LogDerivedDataCache: C:/Users/David/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.18-20.42.16:938][752]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18142.082031
+[2025.05.18-20.42.17:056][758]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-20.42.17:056][759]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18142.179688, Update Interval: 337.495667
+[2025.05.18-20.48.26:432][846]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18514.611328
+[2025.05.18-20.48.26:569][854]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-20.48.26:569][854]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18514.726562, Update Interval: 325.950500
+[2025.05.18-20.54.46:855][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18898.074219
+[2025.05.18-20.54.46:990][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-20.54.46:990][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18898.191406, Update Interval: 334.443176
+[2025.05.18-21.00.55:236][529]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19269.626953
+[2025.05.18-21.00.55:369][536]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-21.00.55:370][536]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19269.742188, Update Interval: 334.260071
+[2025.05.18-21.07.15:649][179]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19653.107422
+[2025.05.18-21.07.15:784][186]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-21.07.15:784][186]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19653.224609, Update Interval: 349.319122
+[2025.05.18-21.13.57:223][919]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20057.863281
+[2025.05.18-21.13.57:338][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-21.13.57:338][925]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20057.958984, Update Interval: 330.654633
+[2025.05.18-21.20.00:278][678]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20423.779297
+[2025.05.18-21.20.00:413][685]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-21.20.00:413][685]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20423.896484, Update Interval: 354.867401
+[2025.05.18-21.26.53:712][ 29]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20840.486328
+[2025.05.18-21.26.53:826][ 35]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-21.26.53:826][ 35]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20840.583984, Update Interval: 321.814026
+[2025.05.18-21.32.51:143][496]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21200.820312
+[2025.05.18-21.32.51:278][502]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-21.32.51:278][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21200.935547, Update Interval: 339.328583
+[2025.05.18-21.35.25:672][477]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 3e3...37f
+[2025.05.18-21.35.25:672][477]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.553e+07
+[2025.05.18-21.35.25:829][485]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 3e3...37f Access[Expires: 2025.05.18-23.35.28 Remaining: 7200.44] Refresh[Expires: 2025-11-14T14:47:22.189Z Remaining: 15527514.19] State: Valid
+[2025.05.18-21.39.26:824][931]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21599.587891
+[2025.05.18-21.39.26:959][939]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.18-21.39.26:959][939]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21599.705078, Update Interval: 335.122528
+[2025.05.18-21.41.58:785][778]LogDerivedDataCache: C:/Users/David/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.18-21.45.27:932][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:932][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:933][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.27:934][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/David/Source/GitHub/IdiotGaming'
+[2025.05.18-21.45.28:212][133]EditorErrors: Warning: No assets to check in!
+[2025.05.18-21.45.34:237][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.05.18-21.45.42:504][419]LogSlate: Window 'Save Content' being destroyed
+[2025.05.18-21.45.42:971][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.18-21.45.43:053][419]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/O2/L00SP2MQPLAL3J4IHGPD89
+[2025.05.18-21.45.43:053][419]LogSavePackage: Moving '../../../../../../Users/David/Source/GitHub/IdiotGaming/IdiotTrainingProject/IdiotTrainingProject/Saved/L00SP2MQPLAL3J4IHGPD890BF8E8DA42C3A6F88654BAA44D7A7C53.tmp' to '../../../../../../Users/David/Source/GitHub/IdiotGaming/IdiotTrainingProject/IdiotTrainingProject/Content/__ExternalActors__/TopDown/Maps/TopDownMap/2/O2/L00SP2MQPLAL3J4IHGPD89.uasset'
+[2025.05.18-21.45.43:060][419]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/AX/QD7MAQAIBJ16OYN5ZXXIUV
+[2025.05.18-21.45.43:062][419]LogSavePackage: Moving '../../../../../../Users/David/Source/GitHub/IdiotGaming/IdiotTrainingProject/IdiotTrainingProject/Saved/QD7MAQAIBJ16OYN5ZXXIUV5C04F5EE401157BC639AD9B67B392EF6.tmp' to '../../../../../../Users/David/Source/GitHub/IdiotGaming/IdiotTrainingProject/IdiotTrainingProject/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/AX/QD7MAQAIBJ16OYN5ZXXIUV.uasset'
+[2025.05.18-21.45.43:400][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 429.401 ms (total: 984.840 ms)
+[2025.05.18-21.45.43:640][419]LogStall: Shutdown...
+[2025.05.18-21.45.43:640][419]LogStall: Shutdown complete.
+[2025.05.18-21.45.43:768][419]LogSlate: Window 'IdiotTrainingProject - Unreal Editor' being destroyed
+[2025.05.18-21.45.44:015][419]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.18-21.45.44:015][419]LogContentValidation: Enabled validators:
+[2025.05.18-21.45.44:015][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.18-21.45.44:015][419]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.18-21.45.44:015][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.18-21.45.44:015][419]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.18-21.45.44:015][419]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.18-21.45.44:015][419]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.18-21.45.44:016][419]AssetCheck: /Game/TopDown/Maps/TopDownMap Validating asset
+[2025.05.18-21.45.44:020][419]LogAutomationController: Ignoring very large delta of 9.81 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.18-21.45.44:022][419]Cmd: QUIT_EDITOR
+[2025.05.18-21.45.44:022][419]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.18-21.45.44:040][420]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.18-21.45.44:040][420]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.18-21.45.44:040][420]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.18-21.45.44:044][420]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-21.45.44:044][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-21.45.44:045][420]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2025.05.18-21.45.44:088][420]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.18-21.45.44:089][420]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.18-21.45.44:110][420]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-21.45.44:110][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-21.45.44:111][420]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-21.45.44:111][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-21.45.44:111][420]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-21.45.44:111][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-21.45.44:111][420]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.18-21.45.44:111][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.18-21.45.44:112][420]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.18-21.45.44:133][420]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.18-21.45.44:133][420]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.18-21.45.44:133][420]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.18-21.45.44:754][420]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.18-21.45.44:754][420]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.18-21.45.44:754][420]LogAudio: Display: Audio Device unregistered from world 'TopDownMap'.
+[2025.05.18-21.45.44:754][420]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.18-21.45.44:755][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.18-21.45.44:759][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.18-21.45.44:791][420]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.18-21.45.44:791][420]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.18-21.45.44:792][420]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.05.18-21.45.44:796][420]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.18-21.45.44:796][420]LogExit: Preparing to exit.
+[2025.05.18-21.45.44:839][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.05.18-21.45.45:813][420]LogEditorDataStorage: Deinitializing
+[2025.05.18-21.45.46:054][420]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.18-21.45.46:102][420]LogExit: Editor shut down
+[2025.05.18-21.45.46:112][420]LogExit: Transaction tracking system shut down
+[2025.05.18-21.45.46:450][420]LogExit: Object subsystem successfully closed.
+[2025.05.18-21.45.46:569][420]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.18-21.45.47:407][420]LogMemoryProfiler: Shutdown
+[2025.05.18-21.45.47:407][420]LogNetworkingProfiler: Shutdown
+[2025.05.18-21.45.47:407][420]LoadingProfiler: Shutdown
+[2025.05.18-21.45.47:407][420]LogTimingProfiler: Shutdown
+[2025.05.18-21.45.47:942][420]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.18-21.45.47:943][420]RenderDocPlugin: plugin has been unloaded.
+[2025.05.18-21.45.48:001][420]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.18-21.45.48:001][420]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4FB1BDBD-4B19-05E2-51FF-73BC99C3E066%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=fdd458364ec54173865a6294a663bb4e%7C3e3b2f6ffba64c649b2c001d27ca737f%7Cd3350014-2cd3-4a07-bfea-99b81d8fea73&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.18-21.45.48:561][420]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.18-21.45.48:561][420]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.18-21.45.48:561][420]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.18-21.45.48:566][420]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.18-21.45.48:566][420]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.18-21.45.48:566][420]LogPakFile: Destroying PakPlatformFile
+[2025.05.18-21.45.49:460][420]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.18-21.45.49:499][420]LogExit: Exiting.
+[2025.05.18-21.45.49:554][420]Log file closed, 05/18/25 16:45:49
