@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/GitHub/IdiotGaming/IdiotTrainingProject/IdiotTrainingProject/Content/TopDown/Blueprints/BP_TopDown_Character.uasset",
+				"G:/GitHub/IdiotGaming/IdiotTrainingProject/IdiotTrainingProject/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
 				"C:/Users/David/Source/GitHub/IdiotGaming/IdiotTrainingProject/IdiotTrainingProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
